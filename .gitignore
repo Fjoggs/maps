@@ -1,0 +1,16 @@
+Design/
+Earlyworks/
+Layouts/
+Previous Versions/
+q3ase/
+q3map2/
+Q3ToReflex/
+QuakeLive Encode/
+*.aas
+*.ase
+*.autosave.map
+*.bak
+*.bsp
+*.srf
+*.prt
+*.zip
