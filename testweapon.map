@@ -1,0 +1,138 @@
+
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+( 256 256 320 ) ( 256 0 320 ) ( 16 256 320 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 240 256 48 ) ( 0 256 48 ) ( 240 256 32 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 240 256 48 ) ( 240 256 32 ) ( 240 0 48 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 32 ) ( 0 0 48 ) ( 240 0 32 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 32 ) ( 0 256 32 ) ( 0 0 48 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 16 256 304 ) ( 256 0 304 ) ( 256 256 304 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+}
+// brush 1
+{
+( 256 256 320 ) ( 256 0 320 ) ( 16 256 320 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 240 256 48 ) ( 0 256 48 ) ( 240 256 32 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 240 256 48 ) ( 240 256 32 ) ( 240 0 48 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 0 ) ( 240 0 0 ) ( 0 256 0 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 32 ) ( 0 256 32 ) ( 0 0 48 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 240 240 32 ) ( 0 240 48 ) ( 240 240 48 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+}
+// brush 2
+{
+( 256 256 320 ) ( 256 0 320 ) ( 16 256 320 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 240 256 48 ) ( 0 256 48 ) ( 240 256 32 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 240 256 48 ) ( 240 256 32 ) ( 240 0 48 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 0 ) ( 240 0 0 ) ( 0 256 0 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 32 ) ( 0 0 48 ) ( 240 0 32 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 224 0 48 ) ( 224 256 32 ) ( 224 256 48 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+}
+// brush 3
+{
+( 240 256 48 ) ( 0 256 48 ) ( 240 256 32 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 240 256 48 ) ( 240 256 32 ) ( 240 0 48 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 0 ) ( 240 0 0 ) ( 0 256 0 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 32 ) ( 0 0 48 ) ( 240 0 32 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 32 ) ( 0 256 32 ) ( 0 0 48 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 256 16 ) ( 240 0 16 ) ( 0 0 16 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+}
+// brush 4
+{
+( 256 256 320 ) ( 256 0 320 ) ( 16 256 320 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 240 256 48 ) ( 240 256 32 ) ( 240 0 48 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 0 ) ( 240 0 0 ) ( 0 256 0 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 32 ) ( 0 0 48 ) ( 240 0 32 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 32 ) ( 0 256 32 ) ( 0 0 48 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 240 16 32 ) ( 0 16 48 ) ( 0 16 32 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+}
+// brush 5
+{
+( 256 256 320 ) ( 256 0 320 ) ( 16 256 320 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 240 256 48 ) ( 0 256 48 ) ( 240 256 32 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 0 ) ( 240 0 0 ) ( 0 256 0 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 32 ) ( 0 0 48 ) ( 240 0 32 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 0 0 32 ) ( 0 256 32 ) ( 0 0 48 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 16 0 48 ) ( 16 256 32 ) ( 16 0 32 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+}
+// brush 6
+{
+( 496 192 192 ) ( 496 64 192 ) ( 368 192 192 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 512 192 80 ) ( 384 192 80 ) ( 512 192 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 512 192 80 ) ( 512 192 64 ) ( 512 64 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 384 64 80 ) ( 512 64 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 384 192 64 ) ( 384 64 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 368 192 176 ) ( 496 64 176 ) ( 496 192 176 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+}
+// brush 7
+{
+( 496 192 192 ) ( 496 64 192 ) ( 368 192 192 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 512 192 80 ) ( 384 192 80 ) ( 512 192 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 512 192 80 ) ( 512 192 64 ) ( 512 64 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 512 64 64 ) ( 384 192 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 384 192 64 ) ( 384 64 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 512 176 64 ) ( 384 176 80 ) ( 512 176 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+}
+// brush 8
+{
+( 496 192 192 ) ( 496 64 192 ) ( 368 192 192 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 512 192 80 ) ( 384 192 80 ) ( 512 192 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 512 192 80 ) ( 512 192 64 ) ( 512 64 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 512 64 64 ) ( 384 192 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 384 64 80 ) ( 512 64 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 496 64 80 ) ( 496 192 64 ) ( 496 192 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+}
+// brush 9
+{
+( 512 192 80 ) ( 384 192 80 ) ( 512 192 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 512 192 80 ) ( 512 192 64 ) ( 512 64 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 512 64 64 ) ( 384 192 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 384 64 80 ) ( 512 64 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 384 192 64 ) ( 384 64 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 192 80 ) ( 512 64 80 ) ( 384 64 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+}
+// brush 10
+{
+( 496 192 192 ) ( 496 64 192 ) ( 368 192 192 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 512 192 80 ) ( 512 192 64 ) ( 512 64 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 512 64 64 ) ( 384 192 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 384 64 80 ) ( 512 64 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 384 192 64 ) ( 384 64 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 512 80 64 ) ( 384 80 80 ) ( 384 80 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+}
+// brush 11
+{
+( 496 192 192 ) ( 496 64 192 ) ( 368 192 192 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 512 192 80 ) ( 384 192 80 ) ( 512 192 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 512 64 64 ) ( 384 192 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 384 64 80 ) ( 512 64 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 384 64 64 ) ( 384 192 64 ) ( 384 64 80 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+( 400 64 80 ) ( 400 192 64 ) ( 400 64 64 ) egyptsoc_floor/block03a 0 0 0 0.5 0.5 0 0 0
+}
+}
+// entity 1
+{
+"classname" "info_player_start"
+"origin" "96 176 64"
+}
+// entity 2
+{
+"classname" "shooter_plasma"
+"origin" "448 128 128"
+"targetname" "shooter_plasma1"
+}
+// entity 3
+{
+"classname" "trigger_multiple"
+"target" "shooter_plasma1"
+// brush 0
+{
+( 224 240 48 ) ( 224 16 48 ) ( 16 240 48 ) common/trigger 0 0 0 0.5 0.5 0 0 0
+( 224 240 144 ) ( 16 240 144 ) ( 224 240 128 ) common/trigger 0 0 0 0.5 0.5 0 0 0
+( 224 240 144 ) ( 224 240 128 ) ( 224 16 144 ) common/trigger 0 0 0 0.5 0.5 0 0 0
+( 16 16 16 ) ( 224 16 16 ) ( 16 240 16 ) common/trigger 0 0 0 0.5 0.5 0 0 0
+( 16 16 128 ) ( 16 16 144 ) ( 224 16 128 ) common/trigger 0 0 0 0.5 0.5 0 0 0
+( 16 16 128 ) ( 16 240 128 ) ( 16 16 144 ) common/trigger 0 0 0 0.5 0.5 0 0 0
+}
+}
